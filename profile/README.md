@@ -1,5 +1,4 @@
-![Company Logo](https://avatars.githubusercontent.com/u/225485666?s=200&v=4) 
-# Tibabah
+# Tibabah - طبابة
 
 Tibabah is Iraq’s first comprehensive, multilingual telehealth and medical services platform, designed to connect patients with verified healthcare providers across the country. It offers a seamless way to search, filter, and book both in-person and online consultations, making quality healthcare accessible anytime, anywhere. With a focus on accessibility, trust, and innovation, Tibabah empowers both patients and providers with the tools they need to thrive in a modern, connected healthcare ecosystem.
 
